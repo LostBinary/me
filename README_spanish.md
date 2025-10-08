@@ -1,6 +1,6 @@
 Durante años he trabajado en la línea de montaje fabricando coches. Es un curro que disfruto y respeto, pero sentía que tenía que dar un paso más. No es fácil dejar atrás lo conocido, pero **me niego a conformarme** y a dejar que mi entorno defina mis límites.
 
-Ahora estoy estudiando la FP de Técnico de Equipos y Sistemas, y preparándome por mi cuenta para certificarme en cosas como ICDL Standard, CEH y CompTIA Security+. Porque si hay algo que tengo claro es que **nunca es tarde para reinventarse**.
+Ahora estoy estudiando la FP de Técnico de Equipos y Sistemas, y preparándome por mi cuenta para certificarme en ICDL Standard, CEH y CompTIA Security+. Porque si hay algo que tengo claro es que **nunca es tarde para reinventarse**.
 
 ---
 
