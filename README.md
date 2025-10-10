@@ -2,13 +2,13 @@
 
 For years, I worked on the assembly line building cars. It's a job I enjoy and respect, but I felt I had to take a step further. It's not easy to leave behind what you know, but I **refuse to settle** and let my environment define my limits.
 
-Now I'm studying for a vocational degree in Computer Systems and preparing on my own for certifications like ICDL Standard, CEH, and CompTIA Security+. Because if there's one thing I'm sure of, it's that **it's never too late to reinvent yourself**.
+Now I'm studying Computer Systems and preparing on my own for certifications like ICDL Standard, CEH, and CompTIA Security+. Because if there's one thing I'm sure of, it's that **it's never too late to reinvent yourself**.
 
 🇪🇸
 
 Durante años he trabajado en la línea de montaje fabricando coches. Es un curro que disfruto y respeto, pero sentía que tenía que dar un paso más. No es fácil dejar atrás lo conocido, pero **me niego a conformarme** y a dejar que mi entorno defina mis límites.
 
-Ahora estoy estudiando la FP de Técnico de Equipos y Sistemas, y preparándome por mi cuenta para certificarme en ICDL Standard, CEH y CompTIA Security+. Porque si hay algo que tengo claro es que **nunca es tarde para reinventarse**.
+Ahora estoy estudiando Técnico de Equipos y Sistemas, y preparándome por mi cuenta para certificarme en ICDL Standard, CEH y CompTIA Security+. Porque si hay algo que tengo claro es que **nunca es tarde para reinventarse**.
 
 ---
 
